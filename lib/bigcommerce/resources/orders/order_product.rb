@@ -24,6 +24,7 @@ module Bigcommerce
     property :event_date
     property :event_name
     property :product_id
+    property :categories
     property :is_refunded
     property :ebay_item_id
     property :price_ex_tax
